@@ -41,7 +41,7 @@ El proyecto consta de 10 ejercicios funcionales resueltos tanto en C++ como en J
 ## 🛠️ Tecnologías y Herramientas Utilizadas
 * **Lenguajes:** Java, C++
 * **Herramientas de diseño:** PSeInt (para diagramas de flujo y pseudocódigo)
-* **IDE/Editores:** Compatibles con Java y C++ (ej. VS Code, Eclipse, CLion)
+* **IDE/Editores:** Compatibles con Java y C++ (VS Code)
 
 ## 👤 Autor
 * **Alumno:** Chacha Chango Victor Manuel
